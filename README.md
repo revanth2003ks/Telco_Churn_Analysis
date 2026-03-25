@@ -4,9 +4,8 @@
 
 ## **Telco Customer Churn Analysis**
 ### **Project Overview**
-- This project analyzes telecom customer data to identify key factors influencing customer churn.
-- Performs Exploratory Data Analysis (EDA) and builds machine learning models to predict churn.
-- Provides actionable insights to improve customer retention strategies and support business decisions.
+This project focuses on analyzing customer data from a telecom company to understand the key factors influencing customer churn. The primary objective is to perform Exploratory Data Analysis (EDA) to uncover patterns in customer behavior, service usage, and billing information. Additionally, machine learning models such as Decision Tree and Random Forest are applied to predict whether a customer is likely to churn.
+By combining data analysis and predictive modeling, the project aims to generate actionable insights that can help telecom companies improve customer retention strategies, reduce churn rates, and make data-driven business decisions.
 
 ### 🎯 **Objectives**
 - Analyze customer data to identify churn patterns
