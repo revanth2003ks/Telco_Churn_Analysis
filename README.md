@@ -40,7 +40,8 @@
 🌳 Decision Tree Classifier
 - Easy to interpret
 - Captures non-linear relationships
-🌲 Random Forest Classifier \
+  
+🌲 Random Forest Classifier 
 - Ensemble model for improved accuracy
 - Reduces overfitting
 ### **⚖️ Handling Imbalanced Data**
