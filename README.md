@@ -2,25 +2,25 @@
 
 👇
 
-### **Telco Customer Churn Analysis**
-##### **Project Overview**
+## **Telco Customer Churn Analysis**
+### **Project Overview**
 - This project analyzes telecom customer data to identify key factors influencing customer churn.
 - Performs Exploratory Data Analysis (EDA) and builds machine learning models to predict churn.
 - Provides actionable insights to improve customer retention strategies and support business decisions.
 
-##### **🎯 Objectives**
+### 🎯 **Objectives**
 - Analyze customer data to identify churn patterns
 - Perform data cleaning and preprocessing
 - Conduct detailed EDA (Exploratory Data Analysis)
 - Build predictive models for churn classification
 - Generate business insights for decision-making
-##### **📂 Dataset Description**
+### **📂 Dataset Description**
 - Customer Information: Gender, Senior Citizen, Partner, Dependents
 - Services: Phone Service, Internet Service, Online Security, Tech Support
 - Account Details: Contract Type, Tenure, Payment Method
 - Billing: Monthly Charges, Total Charges
 - Target Variable: Churn (Yes/No or 1/0)
-###### **🛠️ Technologies Used**
+#### **🛠️ Technologies Used**
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
